@@ -8,7 +8,9 @@ https://github.com/gabrielkpontes/PLANILHA-MEUS-GASTOS/issues/1#issue-2769089188
     
  <br/> 
 💻 Tecnologias utilizadas no projeto:
-  
+  <br/>
+
+    
 . ChatGPT: sugestão de ideias para criação do layout
   
 . Microsoft Excel: edição dos dados

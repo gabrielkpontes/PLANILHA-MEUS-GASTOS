@@ -1,10 +1,10 @@
 🤑 Planilha: "Meus Gastos"
 Criado para o projeto "Como Organizar sua Vida Financeira com Planilhas Inteligentes e I.A."  
-  
+<br/>  
   
 📕Clique aqui acessar a planilha
 https://github.com/gabrielkpontes/PLANILHA-MEUS-GASTOS/issues/1#issue-2769089188
-  
+<br/>
   
   
 💻 Tecnologias utilizadas no projeto:

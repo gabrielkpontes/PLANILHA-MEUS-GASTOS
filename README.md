@@ -5,8 +5,7 @@ Criado para o projeto "Como Organizar sua Vida Financeira com Planilhas Intelige
 
 
 📕Clique aqui acessar a planilha
-https://github.com/gabrielkpontes/Ebook-Dinheiro-Bancos-Infla-o-Um-Guia-para-a-Vida-Real/issues/3#issue-2762399054
-
+https://github.com/gabrielkpontes/PLANILHA-MEUS-GASTOS/issues/1#issue-2769089188
 
 
 
